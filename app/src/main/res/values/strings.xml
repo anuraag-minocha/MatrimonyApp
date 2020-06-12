@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MatrimonyApp</string>
+    <string name="my_matches">My Matches</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+</resources>
